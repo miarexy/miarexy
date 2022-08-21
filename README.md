@@ -1,5 +1,5 @@
 <img src='https://github.com/miarexy/miarexy/blob/main/header.png' alt='preview'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monospace&size=25&pause=1000&color=F0EAD2&width=435&lines=Junior+Frontend+developer+studing+at+Elbrus+Bootcamp" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monospace&size=25&pause=1000&color=F0EAD2&width=783&lines=Junior+Frontend+developer+studing+at+Elbrus+Bootcamp" alt="Typing SVG" /></a>
 
 <!--
 **miarexy/miarexy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

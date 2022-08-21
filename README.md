@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src='https://github.com/miarexy/miarexy/blob/main/header.png' alt='preview'>
 
 <!--
 **miarexy/miarexy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

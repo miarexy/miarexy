@@ -26,7 +26,7 @@
   <img src='https://activity-graph.herokuapp.com/graph?username=miarexy&theme=green'>
   <hr>
   <a href='mailto:miarexy@yandex.ru'>
-    <img src='https://cdn-icons.flaticon.com/png/512/2875/premium/2875394.png?token=exp=1661121724~hmac=50af48f8e8c26ad5339e8fa91cd9c7b0' width='40'>  
+    <img src='https://cdn-icons-png.flaticon.com/512/2875/2875394.png' width='40'>  
   </a>
   <a href='https://t.me/miarexy'>
     <img src='https://cdn-icons-png.flaticon.com/512/408/408737.png' width='40'>  

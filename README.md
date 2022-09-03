@@ -11,6 +11,7 @@
   <br>
   <img src='https://img.shields.io/badge/Figma-20232a?style=for-the-badge&logo=figma&logoColor=white'>
   <img src='https://img.shields.io/badge/Adobe%20XD-20232a?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6'>
+  <img src='https://img.shields.io/badge/Node.js-20232a?style=for-the-badge&logo=node.js&logoColor=43853D'>
   <img src='https://img.shields.io/badge/Jest-20232a?style=for-the-badge&logo=Jest&logoColor=white'>
   <br>
   <img src='https://img.shields.io/badge/eslint-20232a?style=for-the-badge&logo=eslint&logoColor=3A33D1'>

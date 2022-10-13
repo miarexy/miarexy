@@ -11,19 +11,26 @@
   <img src='https://img.shields.io/badge/HTML5-20232a?style=for-the-badge&logo=html5&logoColor=E34F26'>
   <img src='https://img.shields.io/badge/CSS3-20232a?style=for-the-badge&logo=css3&logoColor=1572B6'>
   <img src='https://img.shields.io/badge/JavaScript-20232a?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
-  <img src='https://img.shields.io/badge/Node.js-20232a?style=for-the-badge&logo=node.js&logoColor=43853D'>
+  <img src='https://img.shields.io/badge/Node-20232a?style=for-the-badge&logo=node.js&logoColor=43853D'>
+  <br>
+  
+  <img src='https://img.shields.io/badge/npm-20232a?style=for-the-badge&logo=npm&logoColor=CC6699'>
   <img src='https://img.shields.io/badge/Jest-20232a?style=for-the-badge&logo=Jest&logoColor=white'>
   <img src='https://img.shields.io/badge/eslint-20232a?style=for-the-badge&logo=eslint&logoColor=3A33D1'>
+  <img src='https://img.shields.io/badge/prettier-20232a?style=for-the-badge&logo=prettier&logoColor=F7BA3E'>
   <br>
   
   <img src='https://img.shields.io/badge/Figma-20232a?style=for-the-badge&logo=figma&logoColor=white'>
   <img src='https://img.shields.io/badge/Adobe%20XD-20232a?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6'>
   <img src='https://img.shields.io/badge/Sass-20232a?style=for-the-badge&logo=sass&logoColor=CC6699'>
   <img src='https://img.shields.io/badge/Bootstrap-20232a?style=for-the-badge&logo=bootstrap&logoColor=563D7C'>
-  <img src='https://img.shields.io/badge/Tailwind-20232a?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC'>
   <br>
   
-  <img src='https://img.shields.io/badge/Express.js-20232a?style=for-the-badge&logo=Express&logoColor=#90c53f'>
+  <img src='https://img.shields.io/badge/PostgreSQL-20232a?style=for-the-badge&logo=postgresql&logoColor=316192'>
+  <img src='https://img.shields.io/badge/Sequelize-20232a?style=for-the-badge&logo=Sequelize&logoColor=52B0E7'>
+  <img src='https://img.shields.io/badge/Express-20232a?style=for-the-badge&logo=Express&logoColor=#90c53f'>
+  <br>
+  
   <img src='https://img.shields.io/badge/Babel-20232a?style=for-the-badge&logo=Babel&logoColor=#f9dd3e'>
   <img src='https://img.shields.io/badge/Webpack-20232a?style=for-the-badge&logo=Webpack&logoColor=#1c78c1'>
   <img src='https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB'>

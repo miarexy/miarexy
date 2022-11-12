@@ -26,7 +26,7 @@
   
   <img src='https://img.shields.io/badge/Babel-20232a?style=for-the-badge&logo=Babel&logoColor=#f9dd3e'>
   <img src='https://img.shields.io/badge/Webpack-20232a?style=for-the-badge&logo=Webpack&logoColor=#1c78c1'>
-  <img src='https://img.shields.io/badge/Postgres-20232a?style=for-the-badge&logo=postgresql&logoColor=316192'>
+  <img src='https://img.shields.io/badge/PostgreSQL-20232a?style=for-the-badge&logo=postgresql&logoColor=316192'>
   <img src='https://img.shields.io/badge/Sequelize-20232a?style=for-the-badge&logo=Sequelize&logoColor=52B0E7'>
   <img src='https://img.shields.io/badge/Express-20232a?style=for-the-badge&logo=Express&logoColor=#90c53f'>
   <img src='https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB'>

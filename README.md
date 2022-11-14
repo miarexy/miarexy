@@ -47,11 +47,11 @@
   <a href='mailto:miarexy@yandex.ru'>
     <img src='https://cdn-icons-png.flaticon.com/512/2875/2875394.png' width='40'>  
   </a>
-  
+
   <a href='https://t.me/miarexy'>
     <img src='https://cdn-icons-png.flaticon.com/512/408/408737.png' width='40'>  
   </a>
-  
+
   <a href='https://vk.com/miarexy'>
     <img src='https://cdn-icons-png.flaticon.com/512/725/725288.png' width='40'>  
   </a>

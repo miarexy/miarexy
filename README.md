@@ -31,7 +31,6 @@
   <img src='https://img.shields.io/badge/Express-20232a?style=for-the-badge&logo=Express&logoColor=#90c53f'>
   <img src='https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB'>
   <img src='https://img.shields.io/badge/Redux-20232a?style=for-the-badge&logo=redux&logoColor=593D88'>
-  <img src='https://img.shields.io/badge/Docker-20232a?style=for-the-badge&logo=docker&logoColor=2496ee'>
   <br>
   
   <img src='https://img.shields.io/badge/Ubuntu-20232a?style=for-the-badge&logo=ubuntu&logoColor=E95420'>

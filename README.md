@@ -41,18 +41,5 @@
   <img src='https://img.shields.io/badge/GitHub-20232a?style=for-the-badge&logo=github&logoColor=white'>
   <img src='https://img.shields.io/badge/Notion-20232a?style=for-the-badge&logo=notion&logoColor=white'>
   <img src='https://img.shields.io/badge/Slack-20232a?style=for-the-badge&logo=slack&logoColor=4A154B'>
-  <hr>
-  
-  <a href='mailto:miarexy@yandex.ru'>
-    <img src='https://cdn-icons-png.flaticon.com/512/2875/2875394.png' width='40'>  
-  </a>
-
-  <a href='https://t.me/miarexy'>
-    <img src='https://cdn-icons-png.flaticon.com/512/408/408737.png' width='40'>  
-  </a>
-
-  <a href='https://vk.com/miarexy'>
-    <img src='https://cdn-icons-png.flaticon.com/512/725/725288.png' width='40'>  
-  </a>
   
 </div>
